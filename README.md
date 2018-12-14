@@ -14,7 +14,8 @@ Artificial Intelligence for Automated Software Testing:
 https://www.slideshare.net/briand_lionel/artificial-intelligence-for-automated-software-testing-106757936
 
 ## My other GitHub accounts
-IID
+IID-dataset
+
 https://github.com/IID-dataset/IID/tree/master
 
 struggggle
