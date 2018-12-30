@@ -13,6 +13,19 @@ Artificial Intelligence for Automated Software Testing:
 
 https://www.slideshare.net/briand_lionel/artificial-intelligence-for-automated-software-testing-106757936
 
+## Tool
+Paper:Program Analysis for Latency Optimization of Mobile Applications(ICSE'18)
+
+PALOMA Analysis
+
+PALOMA Proxy
+
+MBM Server
+
+MBM Test Cases
+
+https://felicitia.github.io/PALOMA/
+
 ## My other GitHub accounts
 IID-dataset
 
