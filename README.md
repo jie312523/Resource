@@ -29,6 +29,8 @@ https://felicitia.github.io/PALOMA/
 #### Static analysis
 source code: https://github.com/Sable/soot
 
+doc: https://soot-build.cs.uni-paderborn.de/public/origin/develop/soot/soot-develop/jdoc/
+
 ## Design your pages
 
 https://pages.github.com
