@@ -1,0 +1,9 @@
+1）Android Studio打开XML文件Design卡在Waiting for build to finish
+
+解决方法：重构项目
+
+按下：ctrl+shift+A
+
+输入：Sync Project with Gradle Files
+
+重启Android Studio
