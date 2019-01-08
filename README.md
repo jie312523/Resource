@@ -44,6 +44,13 @@ doc: https://soot-build.cs.uni-paderborn.de/public/origin/develop/soot/soot-deve
 #### taint analysis
 https://github.com/Sable/soot/issues/843
 
+## Tools
+JD-GUI:http://jd.benow.ca/
+
+dex2jar:https://sourceforge.net/projects/dex2jar/files/
+
+using guide:https://www.jianshu.com/p/3ae7ef9b4d13
+
 ## Design your pages
 
 https://pages.github.com
