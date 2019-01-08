@@ -41,6 +41,9 @@ http://www.cs.toronto.edu/~aamodkore/notes/dfa-tutorial.html
 
 doc: https://soot-build.cs.uni-paderborn.de/public/origin/develop/soot/soot-develop/jdoc/
 
+#### taint analysis
+https://github.com/Sable/soot/issues/843
+
 ## Design your pages
 
 https://pages.github.com
