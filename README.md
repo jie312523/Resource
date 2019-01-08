@@ -1,3 +1,5 @@
+## 多看bug，都找新的问题场景
+
 ## Websites:
 
 IEEESoftware:http://blog.ieeesoftware.org/
