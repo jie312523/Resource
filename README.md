@@ -44,6 +44,9 @@ doc: https://soot-build.cs.uni-paderborn.de/public/origin/develop/soot/soot-deve
 #### taint analysis
 https://github.com/Sable/soot/issues/843
 
+#### Soot instrument
+Introduction to insertOnEdge in Soot:https://arpith.xyz/2016/05/insertonedge-soot/
+
 
 ## Tools
 JD-GUI:http://jd.benow.ca/
