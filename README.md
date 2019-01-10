@@ -1,4 +1,5 @@
 ## 多看bug，找新的问题场景
+https://stackoverflow.com/search?q=android+performance
 
 ## Websites:
 
