@@ -18,7 +18,7 @@ Artificial Intelligence for Automated Software Testing:
 
 https://www.slideshare.net/briand_lionel/artificial-intelligence-for-automated-software-testing-106757936
 
-## Samples
+## Android app samples
 DisplayingBitmaps: https://github.com/googlesamples/android-DisplayingBitmaps
 ## Tool
 #### Paper:Program Analysis for Latency Optimization of Mobile Applications(ICSE'18)
