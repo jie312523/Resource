@@ -1,3 +1,4 @@
-（1）发现插桩前的apk可以正常被dj-gui反编译，但是插桩后的apk文件就出现异常了，这是为什么呢？
+（1）发现插桩前的apk可以正常被dex2jar反编译，但是插桩后的apk文件就出现异常了，这是为什么呢？
 
-     ----》解决办法，更新了一个dj-gui包，然后就不再出现这个问题了：https://download.csdn.net/download/supolovedn/10546322
+     ----》解决办法，更新了一个dex2jar包，然后就不再出现这个问题了：https://download.csdn.net/download/supolovedn/10546322
+           具体的文件，已经上传
