@@ -1,3 +1,6 @@
+命令：sudo sh 
+sudo sh /home/.../dex2jar-version/d2j-dex2jar.sh   /home/.../someApk.apk
+
 site:https://blog.csdn.net/yanzi1225627/article/details/48215549
 
 如何手动给apk增加签名?
