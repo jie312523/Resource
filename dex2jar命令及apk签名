@@ -1,0 +1,18 @@
+site:https://blog.csdn.net/yanzi1225627/article/details/48215549
+
+如何手动给apk增加签名?
+回编译后的apk是安装不成功的，总是提示 
+Failure [INSTALL_PARSE_FAILED_UNEXPECTED_EXCEPTION] 
+实质是没签名。 
+1，生成签名:
+
+keytool -genkey -keystore hongbao.keystore -keyalg RSA -validity 10000 -alias hongbao
+1
+注意：上面-keystore后面跟的是签名文件的名字，而-alias是别名，一般情况下-keystore后面跟-alias是一样的，但其实两者没有关系，这也是我故意搞成不一样的原因。 
+2，为apk增加签名：
+
+jarsigner -digestalg SHA1 -sigalg MD5withRSA -tsa -verbose -keystore hongbao.keystore -signedjar hongbao-signed.apk hongbao.apk hongbao
+1
+注意： 
+1，最后的”hongbao”就是－alias后面带的，必须保持一致。 
+2，如果不带-digestalg SHA1 -sigalg MD5withRSA签名后的apk安装也是不成功的，说INSTALL_PARSE_FAILED_NO_CERTIFICATES的错误，如果不带-tsa会报一个时间方面的警告。
