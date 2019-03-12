@@ -9,7 +9,7 @@ SOOT:https://github.com/Sable/soot/wiki
 
 https://github.com/Sable/soot/wiki/Tutorials
 
-插桩：https://raw.githubusercontent.com/wiki/Sable/soot/code/androidinstr/AndroidInstrument.java_.txt
+插桩：https://blog.csdn.net/LZQ729089549/article/details/51399219
 
 ## Writting Advice:
 
