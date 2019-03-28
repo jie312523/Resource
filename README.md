@@ -44,6 +44,9 @@ source code: https://github.com/Sable/soot
 
 Violist: A String analysis framework for Java and Android apps:   https://github.com/marapapman/Violist
 
+#### dynamic analysis
+stoat--Model-Based GUI Testing of Android Apps  https://tingsu.github.io/files/stoat.html
+
 
 #### Data Flow Analysis: Using Soot
 http://www.cs.toronto.edu/~aamodkore/notes/dfa-tutorial.html
@@ -74,6 +77,7 @@ Android污点分析工具flowdroid源码简析:https://www.freebuf.com/sectool/1
 
 ## Some rearchers
 Ding Li      https://marapapman.github.io/
+Ting Su      https://tingsu.github.io/
 
 ## My other GitHub accounts
 IID-dataset
