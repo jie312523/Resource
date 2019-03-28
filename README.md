@@ -42,6 +42,8 @@ https://felicitia.github.io/PALOMA/
 #### Static analysis
 source code: https://github.com/Sable/soot
 
+Violist: A String analysis framework for Java and Android apps:   https://github.com/marapapman/Violist
+
 
 #### Data Flow Analysis: Using Soot
 http://www.cs.toronto.edu/~aamodkore/notes/dfa-tutorial.html
